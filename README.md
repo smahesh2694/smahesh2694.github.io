@@ -1,4 +1,4 @@
-## Personal Portfolio of author
+# Personal Portfolio of author
 
 Webiste template from [Massively by HTML5 UP](https://html5up.net/massively).
 
@@ -12,4 +12,4 @@ All Images and documents are owned by the author.
 
 ---
 
-# Find author's professional website [here](https://msudhakar.com) to contact or hire him.
+## Find author's professional website [here](https://msudhakar.com) to contact him.
